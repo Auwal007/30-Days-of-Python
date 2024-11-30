@@ -19,7 +19,7 @@ example
 
 # 🐍  Arewa Data Science Academy Python Programming for Data Science 🐍
 
-|# Module | Topics                                                    |
+| **Module** | **Topics**                                                    |
 |------|:---------------------------------------------------------:|
 | 01  |  [Introduction](./readme.md)|
 | 02  |  [Variables, Built-in Functions](./02_Module_Variables_builtin_functions/02_variables_builtin_functions.md)|
@@ -35,11 +35,9 @@ example
 | 12 |  [Regular Expressions](./12_Module_Regular_expressions/12_regular_expressions.md)|
 | 13 |  [Python Date time](./13_Module_Python_date_time_file_handling/13_python_datetime_file_handling.md) |   
 | 14 |  [Modules, Virtual Environment](./14_Module_Modules_Virtual_environment/14_modules_virtual_environment.md)|
-| 15 |  [Python Package Manager](./15_Module_Python_package_manager/15_python_package_manager.md)|
-    
+| 15 |  [Python Package Manager](./15_Module_Python_package_manager/15_python_package_manager.md)|  
 | 16 |  [Classes and Objects](./16_Module_Classes_and_objects/16_classes_and_objects.md)|
 | 17 |  [Web Scraping](./17_Module_Web_scraping_API/17_web_scraping_api.md)|
-
 | 18 |  [Statistics, NumPy and Pandas](./18_Module_Statistics_Numpy_Pandas/24_statistics_numpy_pandas.md)|
 
 
